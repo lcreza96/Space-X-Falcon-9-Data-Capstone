@@ -1,0 +1,20 @@
+# Dashboard: pandas, plotly, dash
+# Notebooks: data ingestion, analysis, visualization, mapping, and ML
+# Kept unpinned for a simple learning environment; install in a virtual environment.
+pandas
+numpy
+requests
+beautifulsoup4
+lxml
+matplotlib
+seaborn
+plotly
+dash
+folium
+scikit-learn
+scipy
+SQLAlchemy
+ipython-sql
+ipykernel
+jupyterlab
+nbformat

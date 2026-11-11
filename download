@@ -1,0 +1,35 @@
+# Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+
+# Local IDE and OS artifacts
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Local credentials and secrets
+.env
+.env.*
+!.env.example
+*.pem
+
+# Locally downloaded or generated course datasets (not included by default)
+spacex_launch_dash.csv
+Spacex.csv
+spacex_launch_geo.csv
+spacex_web_scraped.csv
+dataset_part_*.csv
+
+# Notebook-generated database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Miscellaneous
+*.log
